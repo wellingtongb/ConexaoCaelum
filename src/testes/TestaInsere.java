@@ -8,7 +8,7 @@ import modelo.Contato;
 public class TestaInsere {
 
 	public static void main(String[] args) {
-		
+		//este comentarioa eh apenas para testar um commit
 		//contato para gravar no banco
 		Contato contato = new Contato();
 		
